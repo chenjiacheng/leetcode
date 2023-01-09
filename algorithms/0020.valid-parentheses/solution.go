@@ -1,5 +1,8 @@
 package leetcode0020
 
+// 解题思路：
+// 栈
+
 func isValid(s string) bool {
 	if s == "" {
 		return true

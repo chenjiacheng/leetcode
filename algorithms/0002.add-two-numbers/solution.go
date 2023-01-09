@@ -1,5 +1,8 @@
 package leetcode0002
 
+// 解题思路：
+// 不对齐补零，若链表不为空则用 sum(代表每个位的和的结果)加上，考虑进位。
+
 type ListNode struct {
 	Val  int
 	Next *ListNode

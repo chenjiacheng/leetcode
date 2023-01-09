@@ -1,5 +1,10 @@
 package leetcode0019
 
+// 解题思路：
+// 1. 计算链表长度
+// 2. 遍历查找对应位置的前一个
+// 3. 注意另外处理删除头节点
+
 type ListNode struct {
 	Val  int
 	Next *ListNode
