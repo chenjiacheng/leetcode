@@ -1,12 +1,11 @@
-package leetcode0049
+package main
 
 import (
+	"fmt"
+	"reflect"
 	"sort"
 	"strings"
 )
-
-// 解题思路：
-// 哈希表
 
 func groupAnagrams(strs []string) [][]string {
 
@@ -34,4 +33,25 @@ func sortString(str string) string {
 
 	// 将排序后的字符切片重新组合为字符串
 	return strings.Join(chars, "")
+}
+
+type Example struct {
+	strs []string
+	ans  [][]string
+}
+
+func main() {
+	examples := []Example{
+		{[]string{"eat", "tea", "tan", "ate", "nat", "bat"}, [][]string{{"eat", "tea", "ate"}, {"tan", "nat"}, {"bat"}}},
+		{[]string{""}, [][]string{{""}}},
+		{[]string{"a"}, [][]string{{"a"}}},
+	}
+	for i, e := range examples {
+		ans := groupAnagrams(e.strs)
+		if reflect.DeepEqual(ans, e.ans) {
+			fmt.Println("PASS: CASE", i)
+		} else {
+			fmt.Println("FAIL: CASE", i)
+		}
+	}
 }

@@ -1,7 +1,9 @@
-package leetcode0011
+package main
 
-// 解题思路：
-// 双指针
+import (
+	"fmt"
+	"reflect"
+)
 
 func maxArea(height []int) int {
 	left, right, ans := 0, len(height)-1, 0
@@ -25,4 +27,24 @@ func maxArea(height []int) int {
 	}
 
 	return ans
+}
+
+type Example struct {
+	height []int
+	ans    int
+}
+
+func main() {
+	examples := []Example{
+		{[]int{1, 8, 6, 2, 5, 4, 8, 3, 7}, 49},
+		{[]int{1, 1}, 1},
+	}
+	for i, e := range examples {
+		ans := maxArea(e.height)
+		if reflect.DeepEqual(ans, e.ans) {
+			fmt.Println("PASS: CASE", i)
+		} else {
+			fmt.Println("FAIL: CASE", i)
+		}
+	}
 }

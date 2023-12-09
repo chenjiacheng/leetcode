@@ -1,7 +1,9 @@
-package leetcode0002
+package main
 
-// 解题思路：
-// 不对齐补零，若链表不为空则用 sum(代表每个位的和的结果)加上，考虑进位。
+import (
+	"fmt"
+	"reflect"
+)
 
 type ListNode struct {
 	Val  int
@@ -38,4 +40,36 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	}
 
 	return r
+}
+
+type Example struct {
+	l1  *ListNode
+	l2  *ListNode
+	ans *ListNode
+}
+
+func buildList(nums []int) *ListNode {
+	dummy := &ListNode{Val: 0}
+	cur := dummy
+	for _, num := range nums {
+		cur.Next = &ListNode{Val: num}
+		cur = cur.Next
+	}
+	return dummy.Next
+}
+
+func main() {
+	examples := []Example{
+		{buildList([]int{2, 4, 3}), buildList([]int{5, 6, 4}), buildList([]int{7, 0, 8})},
+		{buildList([]int{0}), buildList([]int{0}), buildList([]int{0})},
+		{buildList([]int{9, 9, 9, 9, 9, 9, 9}), buildList([]int{9, 9, 9, 9}), buildList([]int{8, 9, 9, 9, 0, 0, 0, 1})},
+	}
+	for i, e := range examples {
+		ans := addTwoNumbers(e.l1, e.l2)
+		if reflect.DeepEqual(ans, e.ans) {
+			fmt.Println("PASS: CASE", i)
+		} else {
+			fmt.Println("FAIL: CASE", i)
+		}
+	}
 }

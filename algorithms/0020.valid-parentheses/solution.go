@@ -1,7 +1,9 @@
-package leetcode0020
+package main
 
-// 解题思路：
-// 栈
+import (
+	"fmt"
+	"reflect"
+)
 
 func isValid(s string) bool {
 	if s == "" {
@@ -41,4 +43,25 @@ func isValid(s string) bool {
 	}
 
 	return true
+}
+
+type Example struct {
+	s   string
+	ans bool
+}
+
+func main() {
+	examples := []Example{
+		{"()", true},
+		{"()[]{}", true},
+		{"(]", false},
+	}
+	for i, e := range examples {
+		ans := isValid(e.s)
+		if reflect.DeepEqual(ans, e.ans) {
+			fmt.Println("PASS: CASE", i)
+		} else {
+			fmt.Println("FAIL: CASE", i)
+		}
+	}
 }

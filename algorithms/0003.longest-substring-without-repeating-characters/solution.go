@@ -1,7 +1,9 @@
-package leetcode0003
+package main
 
-// 解题思路：
-// 滑动窗口
+import (
+	"fmt"
+	"reflect"
+)
 
 func lengthOfLongestSubstring(s string) int {
 	// 初始化 左指针，右指针，当前长度，最大长度
@@ -41,4 +43,25 @@ func lengthOfLongestSubstring(s string) int {
 	}
 
 	return maxLength
+}
+
+type Example struct {
+	s   string
+	ans int
+}
+
+func main() {
+	examples := []Example{
+		{"abcabcbb", 3},
+		{"bbbbb", 1},
+		{"pwwkew", 3},
+	}
+	for i, e := range examples {
+		ans := lengthOfLongestSubstring(e.s)
+		if reflect.DeepEqual(ans, e.ans) {
+			fmt.Println("PASS: CASE", i)
+		} else {
+			fmt.Println("FAIL: CASE", i)
+		}
+	}
 }

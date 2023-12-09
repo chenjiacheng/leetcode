@@ -1,7 +1,9 @@
-package leetcode0128
+package main
 
-// 解题思路：
-// 哈希表
+import (
+	"fmt"
+	"reflect"
+)
 
 func longestConsecutive(nums []int) int {
 	// 把值存储到hash表
@@ -25,4 +27,24 @@ func longestConsecutive(nums []int) int {
 	}
 
 	return ans
+}
+
+type Example struct {
+	nums []int
+	ans  int
+}
+
+func main() {
+	examples := []Example{
+		{[]int{100, 4, 200, 1, 3, 2}, 4},
+		{[]int{0, 3, 7, 2, 5, 8, 4, 6, 0, 1}, 9},
+	}
+	for i, e := range examples {
+		ans := longestConsecutive(e.nums)
+		if reflect.DeepEqual(ans, e.ans) {
+			fmt.Println("PASS: CASE", i)
+		} else {
+			fmt.Println("FAIL: CASE", i)
+		}
+	}
 }
