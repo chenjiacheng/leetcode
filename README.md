@@ -21,6 +21,7 @@ go run solution.go
 | [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/) | `递归` `链表` `数学` | [Go](./algorithms/0002.add-two-numbers/solution.go) | 中等 |
 | [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | `哈希表` `字符串` `滑动窗口` | [Go](./algorithms/0003.longest-substring-without-repeating-characters/solution.go) | 中等 |
 | [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | `贪心` `数组` `双指针` | [Go](./algorithms/0011.container-with-most-water/solution.go) | 中等 |
+| [15. 三数之和](https://leetcode.cn/problems/3sum/) | `数组` `双指针` `排序` | [Go](./algorithms/0015.3sum/solution.go) | 中等 |
 | [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | `链表` `双指针` | [Go](./algorithms/0019.remove-nth-node-from-end-of-list/solution.go) | 中等 |
 | [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) | `栈` `字符串` | [Go](./algorithms/0020.valid-parentheses/solution.go) | 简单 |
 | [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | `递归` `链表` | [Go](./algorithms/0021.merge-two-sorted-lists/solution.go) | 简单 |
