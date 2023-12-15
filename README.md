@@ -32,6 +32,7 @@ go run solution.go
 | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | `并查集` `数组` `哈希表` | [Go](./algorithms/0128.longest-consecutive-sequence/solution.go) | 中等 |
 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | `数组` `双指针` | [Go](./algorithms/0283.move-zeroes/solution.go) | 简单 |
 | [704. 二分查找](https://leetcode.cn/problems/binary-search/) | `数组` `二分查找` | [Go](./algorithms/0704.binary-search/solution.go) | 简单 |
+| [844. 比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | `栈` `双指针` `字符串` `模拟` | [Go](./algorithms/0844.backspace-string-compare/solution.go) | 简单 |
 
 ### 数据库
 
