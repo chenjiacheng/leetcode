@@ -29,6 +29,7 @@ go run solution.go
 | [49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | `数组` `哈希表` `字符串` `排序` | [Go](./algorithms/0049.group-anagrams/solution.go) | 中等 |
 | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | `并查集` `数组` `哈希表` | [Go](./algorithms/0128.longest-consecutive-sequence/solution.go) | 中等 |
 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | `数组` `双指针` | [Go](./algorithms/0283.move-zeroes/solution.go) | 简单 |
+| [704. 二分查找](https://leetcode.cn/problems/binary-search/) | `数组` `二分查找` | [Go](./algorithms/0704.binary-search/solution.go) | 简单 |
 
 ### 数据库
 
