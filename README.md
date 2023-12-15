@@ -26,6 +26,7 @@ go run solution.go
 | [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) | `栈` `字符串` | [Go](./algorithms/0020.valid-parentheses/solution.go) | 简单 |
 | [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | `递归` `链表` | [Go](./algorithms/0021.merge-two-sorted-lists/solution.go) | 简单 |
 | [23. 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | `链表` `分治` `堆（优先队列）` `归并排序` | [Go](./algorithms/0023.merge-k-sorted-lists/solution.go) | 困难 |
+| [26. 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) | `数组` `双指针` | [Go](./algorithms/0026.remove-duplicates-from-sorted-array/solution.go) | 简单 |
 | [27. 移除元素](https://leetcode.cn/problems/remove-element/) | `数组` `双指针` | [Go](./algorithms/0027.remove-element/solution.go) | 简单 |
 | [49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | `数组` `哈希表` `字符串` `排序` | [Go](./algorithms/0049.group-anagrams/solution.go) | 中等 |
 | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | `并查集` `数组` `哈希表` | [Go](./algorithms/0128.longest-consecutive-sequence/solution.go) | 中等 |
