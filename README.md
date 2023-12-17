@@ -32,6 +32,7 @@ go run solution.go
 | [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) | `数组` `矩阵` `模拟` | [Go](./algorithms/0054.spiral-matrix/solution.go) | 中等 |
 | [59. 螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) | `数组` `矩阵` `模拟` | [Go](./algorithms/0059.spiral-matrix-ii/solution.go) | 中等 |
 | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | `并查集` `数组` `哈希表` | [Go](./algorithms/0128.longest-consecutive-sequence/solution.go) | 中等 |
+| [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) | `递归` `链表` | [Go](./algorithms/0203.remove-linked-list-elements/solution.go) | 简单 |
 | [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | `数组` `二分查找` `前缀和` `滑动窗口` | [Go](./algorithms/0209.minimum-size-subarray-sum/solution.go) | 中等 |
 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | `数组` `双指针` | [Go](./algorithms/0283.move-zeroes/solution.go) | 简单 |
 | [704. 二分查找](https://leetcode.cn/problems/binary-search/) | `数组` `二分查找` | [Go](./algorithms/0704.binary-search/solution.go) | 简单 |
