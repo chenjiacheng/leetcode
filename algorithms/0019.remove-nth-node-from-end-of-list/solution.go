@@ -11,36 +11,25 @@ type ListNode struct {
 }
 
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
-	length := getLength(head)
+	dummyHead := &ListNode{Next: head}
+	slow := dummyHead // 慢指针
+	fast := dummyHead // 快指针
 
-	// 删除头节点
-	if length-n == 0 {
-		head = head.Next
-		return head
+	// 快指针先走 n 步
+	for n > 0 && fast != nil {
+		fast = fast.Next
+		n--
 	}
 
-	dummy := head
-	i := 1
-	for dummy != nil {
-		if length-i == n {
-			dummy.Next = dummy.Next.Next
-			break
-		}
-		dummy = dummy.Next
-		i++
+	fast = fast.Next // 最后多走一步，为了实现慢指针停留上前一位
+	for fast != nil {
+		fast = fast.Next
+		slow = slow.Next
 	}
 
-	return head
-}
+	slow.Next = slow.Next.Next
 
-func getLength(l *ListNode) int {
-	length := 1
-	for l.Next != nil {
-		length++
-		l = l.Next
-	}
-
-	return length
+	return dummyHead.Next
 }
 
 type Example struct {
