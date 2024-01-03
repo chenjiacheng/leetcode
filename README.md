@@ -38,6 +38,7 @@ go run solution.go
 | [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | `数组` `二分查找` `前缀和` `滑动窗口` | [Go](./algorithms/0209.minimum-size-subarray-sum/solution.go) | 中等 |
 | [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) | `哈希表` `字符串` `排序` | [Go](./algorithms/0242.valid-anagram/solution.go) | 简单 |
 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | `数组` `双指针` | [Go](./algorithms/0283.move-zeroes/solution.go) | 简单 |
+| [349. 两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/) | `数组` `哈希表` `双指针` `二分查找` `排序` | [Go](./algorithms/0349.intersection-of-two-arrays/solution.go) | 简单 |
 | [704. 二分查找](https://leetcode.cn/problems/binary-search/) | `数组` `二分查找` | [Go](./algorithms/0704.binary-search/solution.go) | 简单 |
 | [844. 比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | `栈` `双指针` `字符串` `模拟` | [Go](./algorithms/0844.backspace-string-compare/solution.go) | 简单 |
 | [977. 有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/) | `数组` `双指针` `排序` | [Go](./algorithms/0977.squares-of-a-sorted-array/solution.go) | 简单 |
