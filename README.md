@@ -56,5 +56,6 @@ go run solution.go
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ---- |
 | [175. 组合两个表](https://leetcode.cn/problems/combine-two-tables/) | [MySQL](./database/0175.combine-two-tables/solution.sql)    | 简单 |
 | [176. 第二高的薪水](https://leetcode.cn/problems/second-highest-salary/) | [MySQL](./database/0176.second-highest-salary/solution.sql) | 中等 |
+| [177. 第N高的薪水](https://leetcode.cn/problems/nth-highest-salary/) | [MySQL](./database/0177.nth-highest-salary/solution.sql)    | 中等 |
 | [178. 分数排名](https://leetcode.cn/problems/rank-scores/)   | [MySQL](./database/0178.rank-scores/solution.sql)           | 中等 |
 
