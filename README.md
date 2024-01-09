@@ -20,6 +20,7 @@ go run solution.go
 | [1. 两数之和](https://leetcode.cn/problems/two-sum/) | `数组` `哈希表` | [Go](./algorithms/0001.two-sum/solution.go) | 简单 |
 | [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/) | `递归` `链表` `数学` | [Go](./algorithms/0002.add-two-numbers/solution.go) | 中等 |
 | [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | `哈希表` `字符串` `滑动窗口` | [Go](./algorithms/0003.longest-substring-without-repeating-characters/solution.go) | 中等 |
+| [9. 回文数](https://leetcode.cn/problems/palindrome-number/) | `数学` | [Go](./algorithms/0009.palindrome-number/solution.go) | 简单 |
 | [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | `贪心` `数组` `双指针` | [Go](./algorithms/0011.container-with-most-water/solution.go) | 中等 |
 | [15. 三数之和](https://leetcode.cn/problems/3sum/) | `数组` `双指针` `排序` | [Go](./algorithms/0015.3sum/solution.go) | 中等 |
 | [18. 四数之和](https://leetcode.cn/problems/4sum/) | `数组` `双指针` `排序` | [Go](./algorithms/0018.4sum/solution.go) | 中等 |
