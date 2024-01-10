@@ -22,6 +22,7 @@ go run solution.go
 | [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | `哈希表` `字符串` `滑动窗口` | [Go](./algorithms/0003.longest-substring-without-repeating-characters/solution.go) | 中等 |
 | [9. 回文数](https://leetcode.cn/problems/palindrome-number/) | `数学` | [Go](./algorithms/0009.palindrome-number/solution.go) | 简单 |
 | [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) | `贪心` `数组` `双指针` | [Go](./algorithms/0011.container-with-most-water/solution.go) | 中等 |
+| [14. 最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/) | `字典树` `字符串` | [Go](./algorithms/0014.longest-common-prefix/solution.go) | 简单 |
 | [15. 三数之和](https://leetcode.cn/problems/3sum/) | `数组` `双指针` `排序` | [Go](./algorithms/0015.3sum/solution.go) | 中等 |
 | [18. 四数之和](https://leetcode.cn/problems/4sum/) | `数组` `双指针` `排序` | [Go](./algorithms/0018.4sum/solution.go) | 中等 |
 | [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | `链表` `双指针` | [Go](./algorithms/0019.remove-nth-node-from-end-of-list/solution.go) | 中等 |
