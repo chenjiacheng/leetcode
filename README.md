@@ -36,6 +36,7 @@ go run solution.go
 | [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) | `数组` `矩阵` `模拟` | [Go](./algorithms/0054.spiral-matrix/solution.go) | 中等 |
 | [59. 螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) | `数组` `矩阵` `模拟` | [Go](./algorithms/0059.spiral-matrix-ii/solution.go) | 中等 |
 | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | `并查集` `数组` `哈希表` | [Go](./algorithms/0128.longest-consecutive-sequence/solution.go) | 中等 |
+| [150. 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/) | `栈` `数组` `数学` | [Go](./algorithms/0150.evaluate-reverse-polish-notation/solution.go) | 中等 |
 | [151. 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/) | `双指针` `字符串` | [Go](./algorithms/0151.reverse-words-in-a-string/solution.go) | 中等 |
 | [202. 快乐数](https://leetcode.cn/problems/happy-number/) | `哈希表` `数学` `双指针` | [Go](./algorithms/0202.happy-number/solution.go) | 简单 |
 | [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) | `递归` `链表` | [Go](./algorithms/0203.remove-linked-list-elements/solution.go) | 简单 |
