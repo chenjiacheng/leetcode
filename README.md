@@ -42,6 +42,7 @@ go run solution.go
 | [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) | `递归` `链表` | [Go](./algorithms/0203.remove-linked-list-elements/solution.go) | 简单 |
 | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) | `递归` `链表` | [Go](./algorithms/0206.reverse-linked-list/solution.go) | 简单 |
 | [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | `数组` `二分查找` `前缀和` `滑动窗口` | [Go](./algorithms/0209.minimum-size-subarray-sum/solution.go) | 中等 |
+| [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | `队列` `数组` `滑动窗口` `单调队列` `堆（优先队列）` | [Go](./algorithms/0239.sliding-window-maximum/solution.go) | 困难 |
 | [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) | `哈希表` `字符串` `排序` | [Go](./algorithms/0242.valid-anagram/solution.go) | 简单 |
 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | `数组` `双指针` | [Go](./algorithms/0283.move-zeroes/solution.go) | 简单 |
 | [344. 反转字符串](https://leetcode.cn/problems/reverse-string/) | `双指针` `字符串` | [Go](./algorithms/0344.reverse-string/solution.go) | 简单 |
