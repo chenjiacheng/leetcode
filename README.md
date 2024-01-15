@@ -35,6 +35,7 @@ go run solution.go
 | [49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | `数组` `哈希表` `字符串` `排序` | [Go](./algorithms/0049.group-anagrams/solution.go) | 中等 |
 | [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) | `数组` `矩阵` `模拟` | [Go](./algorithms/0054.spiral-matrix/solution.go) | 中等 |
 | [59. 螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) | `数组` `矩阵` `模拟` | [Go](./algorithms/0059.spiral-matrix-ii/solution.go) | 中等 |
+| [94. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | `栈` `树` `深度优先搜索` `二叉树` | [Go](./algorithms/0094.binary-tree-inorder-traversal/solution.go) | 简单 |
 | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | `并查集` `数组` `哈希表` | [Go](./algorithms/0128.longest-consecutive-sequence/solution.go) | 中等 |
 | [144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | `栈` `树` `深度优先搜索` `二叉树` | [Go](./algorithms/0144.binary-tree-preorder-traversal/solution.go) | 简单 |
 | [150. 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/) | `栈` `数组` `数学` | [Go](./algorithms/0150.evaluate-reverse-polish-notation/solution.go) | 中等 |
