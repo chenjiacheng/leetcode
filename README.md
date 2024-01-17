@@ -39,6 +39,7 @@ go run solution.go
 | [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | `树` `广度优先搜索` `二叉树` | [Go](./algorithms/0102.binary-tree-level-order-traversal/solution.go) | 中等 |
 | [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | `树` `深度优先搜索` `广度优先搜索` `二叉树` | [Go](./algorithms/0104.maximum-depth-of-binary-tree/solution.go) | 简单 |
 | [107. 二叉树的层序遍历 II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/) | `树` `广度优先搜索` `二叉树` | [Go](./algorithms/0107.binary-tree-level-order-traversal-ii/solution.go) | 中等 |
+| [111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) | `树` `深度优先搜索` `广度优先搜索` `二叉树` | [Go](./algorithms/0111.minimum-depth-of-binary-tree/solution.go) | 简单 |
 | [116. 填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/) | `树` `深度优先搜索` `广度优先搜索` `链表` `二叉树` | [Go](./algorithms/0116.populating-next-right-pointers-in-each-node/solution.go) | 中等 |
 | [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/) | `树` `深度优先搜索` `广度优先搜索` `链表` `二叉树` | [Go](./algorithms/0117.populating-next-right-pointers-in-each-node-ii/solution.go) | 中等 |
 | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | `并查集` `数组` `哈希表` | [Go](./algorithms/0128.longest-consecutive-sequence/solution.go) | 中等 |
