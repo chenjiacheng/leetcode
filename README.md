@@ -55,6 +55,7 @@ go run solution.go
 | [347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/) | `数组` `哈希表` `分治` `桶排序` `计数` `快速选择` `排序` `堆（优先队列）` | [Go](./algorithms/0347.top-k-frequent-elements/solution.go) | 中等 |
 | [349. 两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/) | `数组` `哈希表` `双指针` `二分查找` `排序` | [Go](./algorithms/0349.intersection-of-two-arrays/solution.go) | 简单 |
 | [383. 赎金信](https://leetcode.cn/problems/ransom-note/) | `哈希表` `字符串` `计数` | [Go](./algorithms/0383.ransom-note/solution.go) | 简单 |
+| [429. N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/) | `树` `广度优先搜索` | [Go](./algorithms/0429.n-ary-tree-level-order-traversal/solution.go) | 中等 |
 | [454. 四数相加 II](https://leetcode.cn/problems/4sum-ii/) | `数组` `哈希表` | [Go](./algorithms/0454.4sum-ii/solution.go) | 中等 |
 | [541. 反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/) | `双指针` `字符串` | [Go](./algorithms/0541.reverse-string-ii/solution.go) | 简单 |
 | [637. 二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | `树` `深度优先搜索` `广度优先搜索` `二叉树` | [Go](./algorithms/0637.average-of-levels-in-binary-tree/solution.go) | 简单 |
