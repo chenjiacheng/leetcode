@@ -57,6 +57,7 @@ go run solution.go
 | [383. 赎金信](https://leetcode.cn/problems/ransom-note/) | `哈希表` `字符串` `计数` | [Go](./algorithms/0383.ransom-note/solution.go) | 简单 |
 | [454. 四数相加 II](https://leetcode.cn/problems/4sum-ii/) | `数组` `哈希表` | [Go](./algorithms/0454.4sum-ii/solution.go) | 中等 |
 | [541. 反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/) | `双指针` `字符串` | [Go](./algorithms/0541.reverse-string-ii/solution.go) | 简单 |
+| [637. 二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | `树` `深度优先搜索` `广度优先搜索` `二叉树` | [Go](./algorithms/0637.average-of-levels-in-binary-tree/solution.go) | 简单 |
 | [704. 二分查找](https://leetcode.cn/problems/binary-search/) | `数组` `二分查找` | [Go](./algorithms/0704.binary-search/solution.go) | 简单 |
 | [844. 比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | `栈` `双指针` `字符串` `模拟` | [Go](./algorithms/0844.backspace-string-compare/solution.go) | 简单 |
 | [977. 有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/) | `数组` `双指针` `排序` | [Go](./algorithms/0977.squares-of-a-sorted-array/solution.go) | 简单 |
