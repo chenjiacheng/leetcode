@@ -28,11 +28,9 @@ func rightSideView(root *TreeNode) []int {
 				queue = append(queue, queue[i].Right)
 			}
 			tmp = append(tmp, queue[i].Val)
-			// 取每层的最后一个元素，添加到结果集中
-			if i == l-1 {
-				ans = append(ans, queue[i].Val)
-			}
 		}
+		// 取每层的最后一个元素，添加到结果集中
+		ans = append(ans, queue[l-1].Val)
 		queue = queue[l:]
 	}
 	return ans
