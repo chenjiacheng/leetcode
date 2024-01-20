@@ -53,6 +53,7 @@ go run solution.go
 | [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) | `递归` `链表` | [Go](./algorithms/0203.remove-linked-list-elements/solution.go) | 简单 |
 | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) | `递归` `链表` | [Go](./algorithms/0206.reverse-linked-list/solution.go) | 简单 |
 | [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | `数组` `二分查找` `前缀和` `滑动窗口` | [Go](./algorithms/0209.minimum-size-subarray-sum/solution.go) | 中等 |
+| [222. 完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/) | `位运算` `树` `二分查找` `二叉树` | [Go](./algorithms/0222.count-complete-tree-nodes/solution.go) | 简单 |
 | [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | `树` `深度优先搜索` `广度优先搜索` `二叉树` | [Go](./algorithms/0226.invert-binary-tree/solution.go) | 简单 |
 | [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | `队列` `数组` `滑动窗口` `单调队列` `堆（优先队列）` | [Go](./algorithms/0239.sliding-window-maximum/solution.go) | 困难 |
 | [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) | `哈希表` `字符串` `排序` | [Go](./algorithms/0242.valid-anagram/solution.go) | 简单 |
