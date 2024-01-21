@@ -58,6 +58,7 @@ go run solution.go
 | [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | `树` `深度优先搜索` `广度优先搜索` `二叉树` | [Go](./algorithms/0226.invert-binary-tree/solution.go) | 简单 |
 | [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | `队列` `数组` `滑动窗口` `单调队列` `堆（优先队列）` | [Go](./algorithms/0239.sliding-window-maximum/solution.go) | 困难 |
 | [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) | `哈希表` `字符串` `排序` | [Go](./algorithms/0242.valid-anagram/solution.go) | 简单 |
+| [257. 二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) | `树` `深度优先搜索` `字符串` `回溯` `二叉树` | [Go](./algorithms/0257.binary-tree-paths/solution.go) | 简单 |
 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | `数组` `双指针` | [Go](./algorithms/0283.move-zeroes/solution.go) | 简单 |
 | [344. 反转字符串](https://leetcode.cn/problems/reverse-string/) | `双指针` `字符串` | [Go](./algorithms/0344.reverse-string/solution.go) | 简单 |
 | [347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/) | `数组` `哈希表` `分治` `桶排序` `计数` `快速选择` `排序` `堆（优先队列）` | [Go](./algorithms/0347.top-k-frequent-elements/solution.go) | 中等 |
