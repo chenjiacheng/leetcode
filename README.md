@@ -39,6 +39,7 @@ go run solution.go
 | [101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree/) | `树` `深度优先搜索` `广度优先搜索` `二叉树` | [Go](./algorithms/0101.symmetric-tree/solution.go) | 简单 |
 | [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | `树` `广度优先搜索` `二叉树` | [Go](./algorithms/0102.binary-tree-level-order-traversal/solution.go) | 中等 |
 | [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | `树` `深度优先搜索` `广度优先搜索` `二叉树` | [Go](./algorithms/0104.maximum-depth-of-binary-tree/solution.go) | 简单 |
+| [106. 从中序与后序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | `树` `数组` `哈希表` `分治` `二叉树` | [Go](./algorithms/0106.construct-binary-tree-from-inorder-and-postorder-traversal/solution.go) | 中等 |
 | [107. 二叉树的层序遍历 II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/) | `树` `广度优先搜索` `二叉树` | [Go](./algorithms/0107.binary-tree-level-order-traversal-ii/solution.go) | 中等 |
 | [110. 平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/) | `树` `深度优先搜索` `二叉树` | [Go](./algorithms/0110.balanced-binary-tree/solution.go) | 简单 |
 | [111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) | `树` `深度优先搜索` `广度优先搜索` `二叉树` | [Go](./algorithms/0111.minimum-depth-of-binary-tree/solution.go) | 简单 |
