@@ -73,6 +73,7 @@ go run solution.go
 | [515. 在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/) | `树` `深度优先搜索` `广度优先搜索` `二叉树` | [Go](./algorithms/0515.find-largest-value-in-each-tree-row/solution.go) | 中等 |
 | [541. 反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/) | `双指针` `字符串` | [Go](./algorithms/0541.reverse-string-ii/solution.go) | 简单 |
 | [637. 二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | `树` `深度优先搜索` `广度优先搜索` `二叉树` | [Go](./algorithms/0637.average-of-levels-in-binary-tree/solution.go) | 简单 |
+| [654. 最大二叉树](https://leetcode.cn/problems/maximum-binary-tree/) | `栈` `树` `数组` `分治` `二叉树` `单调栈` | [Go](./algorithms/0654.maximum-binary-tree/solution.go) | 中等 |
 | [704. 二分查找](https://leetcode.cn/problems/binary-search/) | `数组` `二分查找` | [Go](./algorithms/0704.binary-search/solution.go) | 简单 |
 | [844. 比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | `栈` `双指针` `字符串` `模拟` | [Go](./algorithms/0844.backspace-string-compare/solution.go) | 简单 |
 | [977. 有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/) | `数组` `双指针` `排序` | [Go](./algorithms/0977.squares-of-a-sorted-array/solution.go) | 简单 |
