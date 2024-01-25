@@ -72,6 +72,7 @@ go run solution.go
 | [513. 找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/) | [Go](./algorithms/0513.find-bottom-left-tree-value/solution.go) | 中等 |
 | [515. 在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/) | [Go](./algorithms/0515.find-largest-value-in-each-tree-row/solution.go) | 中等 |
 | [541. 反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/) | [Go](./algorithms/0541.reverse-string-ii/solution.go) | 简单 |
+| [617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/) | [Go](./algorithms/0617.merge-two-binary-trees/solution.go) | 简单 |
 | [637. 二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | [Go](./algorithms/0637.average-of-levels-in-binary-tree/solution.go) | 简单 |
 | [654. 最大二叉树](https://leetcode.cn/problems/maximum-binary-tree/) | [Go](./algorithms/0654.maximum-binary-tree/solution.go) | 中等 |
 | [704. 二分查找](https://leetcode.cn/problems/binary-search/) | [Go](./algorithms/0704.binary-search/solution.go) | 简单 |
