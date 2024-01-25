@@ -75,6 +75,7 @@ go run solution.go
 | [617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/) | [Go](./algorithms/0617.merge-two-binary-trees/solution.go) | 简单 |
 | [637. 二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | [Go](./algorithms/0637.average-of-levels-in-binary-tree/solution.go) | 简单 |
 | [654. 最大二叉树](https://leetcode.cn/problems/maximum-binary-tree/) | [Go](./algorithms/0654.maximum-binary-tree/solution.go) | 中等 |
+| [700. 二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree/) | [Go](./algorithms/0700.search-in-a-binary-search-tree/solution.go) | 简单 |
 | [704. 二分查找](https://leetcode.cn/problems/binary-search/) | [Go](./algorithms/0704.binary-search/solution.go) | 简单 |
 | [844. 比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | [Go](./algorithms/0844.backspace-string-compare/solution.go) | 简单 |
 | [977. 有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/) | [Go](./algorithms/0977.squares-of-a-sorted-array/solution.go) | 简单 |
