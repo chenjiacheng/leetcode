@@ -59,6 +59,7 @@ go run solution.go
 | [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | [Go](./algorithms/0209.minimum-size-subarray-sum/solution.go) | 中等 |
 | [222. 完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/) | [Go](./algorithms/0222.count-complete-tree-nodes/solution.go) | 简单 |
 | [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | [Go](./algorithms/0226.invert-binary-tree/solution.go) | 简单 |
+| [236. 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | [Go](./algorithms/0236.lowest-common-ancestor-of-a-binary-tree/solution.go) | 中等 |
 | [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) | [Go](./algorithms/0239.sliding-window-maximum/solution.go) | 困难 |
 | [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) | [Go](./algorithms/0242.valid-anagram/solution.go) | 简单 |
 | [257. 二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) | [Go](./algorithms/0257.binary-tree-paths/solution.go) | 简单 |
