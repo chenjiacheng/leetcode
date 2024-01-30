@@ -71,6 +71,7 @@ go run solution.go
 | [383. 赎金信](https://leetcode.cn/problems/ransom-note/)     | [Go](./algorithms/0383.ransom-note/solution.go)              | 简单 |
 | [404. 左叶子之和](https://leetcode.cn/problems/sum-of-left-leaves/) | [Go](./algorithms/0404.sum-of-left-leaves/solution.go)       | 简单 |
 | [429. N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/) | [Go](./algorithms/0429.n-ary-tree-level-order-traversal/solution.go) | 中等 |
+| [450. 删除二叉搜索树中的节点](https://leetcode.cn/problems/delete-node-in-a-bst/) | [Go](./algorithms/0450.delete-node-in-a-bst/solution.go)     | 中等 |
 | [454. 四数相加 II](https://leetcode.cn/problems/4sum-ii/)    | [Go](./algorithms/0454.4sum-ii/solution.go)                  | 中等 |
 | [501. 二叉搜索树中的众数](https://leetcode.cn/problems/find-mode-in-binary-search-tree/) | [Go](./algorithms/0501.find-mode-in-binary-search-tree/solution.go) | 简单 |
 | [513. 找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/) | [Go](./algorithms/0513.find-bottom-left-tree-value/solution.go) | 中等 |
