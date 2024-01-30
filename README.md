@@ -81,6 +81,7 @@ go run solution.go
 | [617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/) | [Go](./algorithms/0617.merge-two-binary-trees/solution.go)   | 简单 |
 | [637. 二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | [Go](./algorithms/0637.average-of-levels-in-binary-tree/solution.go) | 简单 |
 | [654. 最大二叉树](https://leetcode.cn/problems/maximum-binary-tree/) | [Go](./algorithms/0654.maximum-binary-tree/solution.go)      | 中等 |
+| [669. 修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree/) | [Go](./algorithms/0669.trim-a-binary-search-tree/solution.go) | 中等 |
 | [700. 二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree/) | [Go](./algorithms/0700.search-in-a-binary-search-tree/solution.go) | 简单 |
 | [701. 二叉搜索树中的插入操作](https://leetcode.cn/problems/insert-into-a-binary-search-tree/) | [Go](./algorithms/0701.insert-into-a-binary-search-tree/solution.go) | 中等 |
 | [704. 二分查找](https://leetcode.cn/problems/binary-search/) | [Go](./algorithms/0704.binary-search/solution.go)            | 简单 |
