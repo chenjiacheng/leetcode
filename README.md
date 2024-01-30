@@ -89,6 +89,7 @@ go run solution.go
 | [704. 二分查找](https://leetcode.cn/problems/binary-search/) | [Go](./algorithms/0704.binary-search/solution.go)            | 简单 |
 | [844. 比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/) | [Go](./algorithms/0844.backspace-string-compare/solution.go) | 简单 |
 | [977. 有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/) | [Go](./algorithms/0977.squares-of-a-sorted-array/solution.go) | 简单 |
+| [1038. 从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/) | [Go](./algorithms/1038.binary-search-tree-to-greater-sum-tree/solution.go) | 中等 |
 | [1047. 删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/) | [Go](./algorithms/1047.remove-all-adjacent-duplicates-in-string/solution.go) | 简单 |
 
 ### 数据库
