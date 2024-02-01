@@ -35,6 +35,7 @@ go run solution.go
 | [49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | [Go](./algorithms/0049.group-anagrams/solution.go)           | 中等 |
 | [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)  | [Go](./algorithms/0054.spiral-matrix/solution.go)            | 中等 |
 | [59. 螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) | [Go](./algorithms/0059.spiral-matrix-ii/solution.go)         | 中等 |
+| [77. 组合](https://leetcode.cn/problems/combinations/)       | [Go](./algorithms/0077.combinations/solution.go)             | 中等 |
 | [94. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | [Go](./algorithms/0094.binary-tree-inorder-traversal/solution.go) | 简单 |
 | [98. 验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | [Go](./algorithms/0098.validate-binary-search-tree/solution.go) | 中等 |
 | [101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree/) | [Go](./algorithms/0101.symmetric-tree/solution.go)           | 简单 |
