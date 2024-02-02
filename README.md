@@ -59,6 +59,7 @@ go run solution.go
 | [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) | [Go](./algorithms/0203.remove-linked-list-elements/solution.go) | 简单 |
 | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) | [Go](./algorithms/0206.reverse-linked-list/solution.go)      | 简单 |
 | [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/) | [Go](./algorithms/0209.minimum-size-subarray-sum/solution.go) | 中等 |
+| [216. 组合总和 III](https://leetcode.cn/problems/combination-sum-iii/) | [Go](./algorithms/0216.combination-sum-iii/solution.go)      | 中等 |
 | [222. 完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/) | [Go](./algorithms/0222.count-complete-tree-nodes/solution.go) | 简单 |
 | [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | [Go](./algorithms/0226.invert-binary-tree/solution.go)       | 简单 |
 | [235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Go](./algorithms/0235.lowest-common-ancestor-of-a-binary-search-tree/solution.go) | 中等 |
