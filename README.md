@@ -50,6 +50,7 @@ go run solution.go
 | [116. 填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/) | [Go](./algorithms/0116.populating-next-right-pointers-in-each-node/solution.go) | 中等 |
 | [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/) | [Go](./algorithms/0117.populating-next-right-pointers-in-each-node-ii/solution.go) | 中等 |
 | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | [Go](./algorithms/0128.longest-consecutive-sequence/solution.go) | 中等 |
+| [131. 分割回文串](https://leetcode.cn/problems/palindrome-partitioning/) | [Go](./algorithms/0131.palindrome-partitioning/solution.go)  | 中等 |
 | [144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | [Go](./algorithms/0144.binary-tree-preorder-traversal/solution.go) | 简单 |
 | [145. 二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) | [Go](./algorithms/0145.binary-tree-postorder-traversal/solution.go) | 简单 |
 | [150. 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/) | [Go](./algorithms/0150.evaluate-reverse-polish-notation/solution.go) | 中等 |
