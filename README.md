@@ -80,6 +80,7 @@ go run solution.go
 | [429. N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/) | [Go](./algorithms/0429.n-ary-tree-level-order-traversal/solution.go) | 中等 |
 | [450. 删除二叉搜索树中的节点](https://leetcode.cn/problems/delete-node-in-a-bst/) | [Go](./algorithms/0450.delete-node-in-a-bst/solution.go)     | 中等 |
 | [454. 四数相加 II](https://leetcode.cn/problems/4sum-ii/)    | [Go](./algorithms/0454.4sum-ii/solution.go)                  | 中等 |
+| [491. 非递减子序列](https://leetcode.cn/problems/non-decreasing-subsequences/) | [Go](./algorithms/0491.non-decreasing-subsequences/solution.go) | 中等 |
 | [501. 二叉搜索树中的众数](https://leetcode.cn/problems/find-mode-in-binary-search-tree/) | [Go](./algorithms/0501.find-mode-in-binary-search-tree/solution.go) | 简单 |
 | [513. 找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/) | [Go](./algorithms/0513.find-bottom-left-tree-value/solution.go) | 中等 |
 | [515. 在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/) | [Go](./algorithms/0515.find-largest-value-in-each-tree-row/solution.go) | 中等 |
